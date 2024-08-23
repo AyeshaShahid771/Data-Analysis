@@ -7,7 +7,8 @@ The company needed a detailed analysis of its online food delivery service to op
 
 Developed a Power BI dashboard that includes Key Performance Indicators (KPIs) to monitor performance metrics and provide actionable insights for improving operational efficiency and revenue.
 
-<img width="760" alt="zomato2" src="https://github.com/user-attachments/assets/e7b00d32-8ef2-41a1-84a5-d190043e5b3e">
+
+<img width="760" alt="zomato2" src="https://github.com/user-attachments/assets/484b694d-41fe-4b04-8620-1a7807bb6da0">
 
 
 Imported six tables from the database into Power BI and verified data accuracy using SQL queries and various joins on primary keys.
